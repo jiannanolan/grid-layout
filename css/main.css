@@ -36,6 +36,14 @@ figcaption {
   margin: 0;
 }
 
-.xs-1-2 {
-  margin: 0 auto;
+.content {
+  margin: 1rem 0;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.content2 {
+  margin: .5rem 0 0 0;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
 }
